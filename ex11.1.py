@@ -1,0 +1,5 @@
+age=input('How old are you sir? :')
+print(f"{age}")
+height=input("please enter your height? :")
+print(f"{height}")
+print("this is a number", int(input("Enter a number:")))
